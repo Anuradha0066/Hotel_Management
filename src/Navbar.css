@@ -1,0 +1,24 @@
+/* Navbar.css */
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #004080;
+  color: white;
+  padding: 10px 20px;
+}
+
+.left, .center, .right {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.new-reservation {
+  background-color: #00bfff;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+}

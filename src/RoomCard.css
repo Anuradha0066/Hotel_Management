@@ -1,0 +1,17 @@
+/* RoomCard.css */
+.room-card {
+  padding: 15px;
+  border-radius: 8px;
+  width: 150px;
+  margin: 10px;
+  color: white;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.clean {
+  background-color: #28a745; /* Green */
+}
+
+.dirty {
+  background-color: #dc3545; /* Red */
+}
